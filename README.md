@@ -13,6 +13,6 @@
 - :office: &nbsp; MINDs Lab - AI Developer Intern
   - FanMeet Mobile Application (2020.05.18 - 2020.08.28)
   
-- :school: nbsp; Pusan National University Software Education Center - Student Researcher
+- :school: &nbsp; Pusan National University Software Education Center - Student Researcher
   - Android Mobile Application Development (Native - Java)
-- Pusan National University 2020 Short-Term Industry-Academic Cooperation Project (2020.08.24 ~ 2020.11.30)
+  - Pusan National University 2020 Short-Term Industry-Academic Cooperation Project (2020.08.24 ~ 2020.11.30)
