@@ -17,3 +17,6 @@
 - :school: &nbsp; Pusan National University Software Education Center - Student Researcher
   - Android Mobile Application Development (Native - Java)
   - Pusan National University 2020 Short-Term Industry-Academic Cooperation Project (2020.08.24 ~ 2020.11.30)
+  
+![izen1231's github stats](https://github-readme-stats.vercel.app/api?username=izen1231&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izen1231)
