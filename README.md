@@ -18,7 +18,7 @@
   - Android Mobile Application Development (Native - Java)
   - Pusan National University 2020 Short-Term Industry-Academic Cooperation Project (2020.08.24 ~ 2020.11.30)
 - :office: &nbsp; DROOT - Full Stack Developer
-  - New Service Development (2020.12.01 ~ )
+  - New Service Development (2020.12.01 ~ 2021.02.28)
 
 
 ![izen1231's github stats](https://github-readme-stats.vercel.app/api?username=izen1231&show_icons=true)
