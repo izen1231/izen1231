@@ -20,6 +20,10 @@
 - :office: &nbsp; DROOT - Full Stack Developer
   - New Service Development (2020.12.01 ~ 2021.02.28)
 
+- :office: &nbsp; PROPWAVE - Developer
+  - New Service Development (2021.04.01 ~ )
+  - Flutter Developer
+
 
 ![izen1231's github stats](https://github-readme-stats.vercel.app/api?username=izen1231&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izen1231)
